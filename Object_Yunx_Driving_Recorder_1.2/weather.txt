@@ -1,0 +1,5 @@
+Temperature:15
+Relative_Humidity:29%
+Sky conditions:Sunny
+
+is 

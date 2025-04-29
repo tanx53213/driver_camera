@@ -1,0 +1,5 @@
+arm-linux-gcc  test.c  -o main_ok  -L./ -lfont  -lm 
+
+
+
+arm-linux-gcc ./freetype字库使用/test.c ./freetype字库使用/testtime.c ./op_Boot_anim.c -o main_ok   -I ./ -L./freetype字库使用 -lfont  -lm 

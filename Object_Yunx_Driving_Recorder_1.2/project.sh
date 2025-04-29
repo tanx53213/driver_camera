@@ -1,0 +1,1 @@
+arm-linux-gcc ./*.c -o ./main -lm
